@@ -376,6 +376,7 @@
                         <artifactId>maven-javadoc-plugin</artifactId>
                         <version>2.7</version>
                         <configuration>
+                            <stylesheet>maven</stylesheet>
                             <source>1.5</source>
                             <doclet>
                                 gr.spinellis.umlgraph.doclet.UmlGraphDoc
