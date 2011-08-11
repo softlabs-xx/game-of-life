@@ -1,0 +1,2 @@
+mvn clean javadoc:javadoc
+cp src/main/javadoc/javadoc.jpg target/site/apidocs/
